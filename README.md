@@ -1,7 +1,7 @@
 # **Deep Sort算法的Paddle实现**
 
 ## **简介**
-
+* 注：只是基于原作者做一下修改，[点我进入原地址：](https://github.com/jm12138/deep_sort_paddle)模型开发
 * 基于[DeepSort](https://github.com/nwojke/deep_sort)官方开源代码开发，将其中的深度学习模型更换为Paddle模型
 
 * 预训练检测模型来自[PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)套件中的[特色垂类检测模型](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/docs/featured_model/CONTRIB_cn.md)
